@@ -1,4 +1,5 @@
 ### Hi there 👋
+###Hello,my name is Aldo Vidales ,I am studying engineering in mechatronics , I am a tech fan. MLSA
 
 <!--
 **AldoVidales/AldoVidales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
