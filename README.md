@@ -7,7 +7,7 @@
   <h3><link> https://aldovidales.com/
     
    <h2>Blockchain Repo
-     <link>https://github.com/stars/AldoVidales/lists/crypto
+     <link>https://github.com/stars/AldoVidales/lists/solidity-blokchain-and-crypto
      
      
    <h2>Frontend
