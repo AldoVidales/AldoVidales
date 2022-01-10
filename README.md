@@ -1,5 +1,18 @@
-### Hi there 👋
-###Hello,my name is Aldo Vidales ,I am studying engineering in mechatronics , I am a tech fan. MLSA
+<h1> Hi there 👋
+<h3>y name is Aldo Vidales ,I am studying engineering in mechatronics , I am a tech fan.I am Microsoft Learn Student Ambassador
+  I want to learn all about the technology🦾💻🤖
+  
+  <h1>My personal blog
+  
+  <h3><link> https://aldovidales.com/
+    
+   <h2>Blockchain Repo
+     <link>https://github.com/stars/AldoVidales/lists/crypto
+     
+     
+   <h2>Frontend
+     <link>https://github.com/stars/AldoVidales/lists/frontend
+ <h2>💬 Ask me about new technology
 
 <!--
 **AldoVidales/AldoVidales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +28,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![foto mia caricatura](https://user-images.githubusercontent.com/70932373/148740219-e7c43b71-71b7-4485-98cf-0ef18d3e1f08.png)
+
