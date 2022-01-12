@@ -1,5 +1,5 @@
 <h1> Hi there 👋
-<h3>y name is Aldo Vidales ,I am studying engineering in mechatronics , I am a tech fan.I am Microsoft Learn Student Ambassador
+<h3>My name is Aldo Vidales ,I am studying engineering in mechatronics , I am a tech fan.I am Microsoft Learn Student Ambassador
   I want to learn all about the technology🦾💻🤖
   
   <h1>My personal blog
