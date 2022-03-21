@@ -13,8 +13,11 @@
    <h2>Frontend
      <link>https://github.com/stars/AldoVidales/lists/frontend
      
-     <h2>Launch-X Fullstack
-     <link>https://github.com/stars/AldoVidales/lists/launch-x-full-stack
+  <h2>Full-stack
+       
+   <link>https://github.com/stars/AldoVidales/lists/launch-x-full-stack
+       
+       
  <h2>💬 Ask me about new technology
 
 <!--
